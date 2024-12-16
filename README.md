@@ -1,6 +1,4 @@
-# Nombre del Proyecto
-
-Juego de Damas 4x4. Hecho por Luis Cabrera
+# Juego de Damas 4x4. Hecho por Luis Cabrera
 
 ## Descripción
 
